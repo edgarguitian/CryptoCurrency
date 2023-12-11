@@ -12,11 +12,11 @@ class CryptoDetailViewModel: ObservableObject {
     @Published var showErrorMessage: String?
     @Published var cryptoDetailInfo: CryptoCurrencyPricePresentableItem
 
-    private let getCryptoPrice: GetCryptoPrice
+    private let getCryptoPrice: GetCryptoPriceType
     private let errorMapper: CryptoCurrencyPresentableErrorMapper
     let cryptoCurrencyInfoItem: CryptoListPresentableItem
 
-    init(getCryptoPrice: GetCryptoPrice,
+    init(getCryptoPrice: GetCryptoPriceType,
          errorMapper: CryptoCurrencyPresentableErrorMapper,
          cryptoCurrency: CryptoListPresentableItem) {
         self.getCryptoPrice = getCryptoPrice
