@@ -38,4 +38,43 @@ final class CryptoCurrencyUITests: XCTestCase {
             }
         }
     }
+    
+    func test_select_element_list_success() {
+        let app = XCUIApplication()
+        app.launch()
+        app.activate()
+        let listView = app.collectionViews["listCryptos"]
+        listView.buttons["01coin"].tap()
+    }
+    
+    func test_scroll_list_success() {
+        let app = XCUIApplication()
+        app.launch()
+        app.activate()
+        let listView = app.collectionViews["listCryptos"]
+        for _ in 0..<6 {
+            listView.swipeUp()
+        }
+        let lastItemRowView = listView.buttons["3A"]
+        
+        XCTAssertTrue(lastItemRowView.exists)
+        
+        lastItemRowView.tap()
+    }
+    
+    func test_search_list_success() {
+        let app = XCUIApplication()
+        app.launch()
+        app.activate()
+        
+        let searchField = app.navigationBars["List Cryptos"].searchFields["Search"]
+        XCTAssertTrue(searchField.exists)
+
+        searchField.tap()
+        searchField.typeText("Free")
+
+        app.collectionViews["listCryptos"]/*@START_MENU_TOKEN@*/.staticTexts["0xFreelance"]/*[[".cells",".buttons[\"0xFreelance\"].staticTexts[\"0xFreelance\"]",".staticTexts[\"0xFreelance\"]"],[[[-1,2],[-1,1],[-1,0,1]],[[-1,2],[-1,1]]],[0]]@END_MENU_TOKEN@*/.tap()
+                
+    }
 }
+

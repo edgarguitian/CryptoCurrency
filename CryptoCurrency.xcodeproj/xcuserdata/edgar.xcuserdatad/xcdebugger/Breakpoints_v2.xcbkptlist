@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B8151550-0EEA-4DD9-9F94-E654FC01B5A1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBF25F8B-13B0-450E-809D-3BA2927F308F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrency/Presentation/CryptoListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "onAppear()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7C93D3F-28FC-4770-853D-679537EFD5FD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrency/Presentation/CryptoDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "onAppear()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B7C93D3F-28FC-4770-853D-679537EFD5FD - 72faacf4e010c320"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in CryptoCurrency.CryptoDetailViewModel.getCryptoPriceInfo() -&gt; ()"
+                  moduleName = "CryptoCurrency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edgar/Documents/CryptoCurrency/CryptoCurrency/Presentation/CryptoDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "B7C93D3F-28FC-4770-853D-679537EFD5FD - 72faacf4e010c320"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in CryptoCurrency.CryptoDetailViewModel.getCryptoPriceInfo() -&gt; ()"
+                  moduleName = "CryptoCurrency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edgar/Documents/CryptoCurrency/CryptoCurrency/Presentation/CryptoDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2316C91F-02C2-4710-8504-3010E18476B4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrency/Domain/Use Cases/SearchCryptoList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "execute(searchText:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "899068AE-565E-41B6-9133-5F88EDF52645"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrency/Domain/Use Cases/SearchCryptoList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "execute(searchText:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "899068AE-565E-41B6-9133-5F88EDF52645 - 6a5ed3192a4ca60a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CryptoCurrency.SearchCryptoList.execute(searchText: Swift.String) async -&gt; Swift.Result&lt;Swift.Array&lt;CryptoCurrency.CryptoCurrencyMarket&gt;, CryptoCurrency.CryptoCurrencyDomainError&gt;"
+                  moduleName = "CryptoCurrency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edgar/Documents/CryptoCurrency/CryptoCurrency/Domain/Use%20Cases/SearchCryptoList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "899068AE-565E-41B6-9133-5F88EDF52645 - 6a5ed3192a4ca64c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CryptoCurrency.SearchCryptoList.execute(searchText: Swift.String) async -&gt; Swift.Result&lt;Swift.Array&lt;CryptoCurrency.CryptoCurrencyMarket&gt;, CryptoCurrency.CryptoCurrencyDomainError&gt;"
+                  moduleName = "CryptoCurrency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edgar/Documents/CryptoCurrency/CryptoCurrency/Domain/Use%20Cases/SearchCryptoList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "724">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E819E10A-7BF9-4FC6-A454-E9FF211DDEDF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrency/Domain/Use Cases/SearchCryptoList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "execute(searchText:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E819E10A-7BF9-4FC6-A454-E9FF211DDEDF - 6a5ed3192a4ca6e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CryptoCurrency.SearchCryptoList.execute(searchText: Swift.String) async -&gt; Swift.Result&lt;Swift.Array&lt;CryptoCurrency.CryptoCurrencyMarket&gt;, CryptoCurrency.CryptoCurrencyDomainError&gt;"
+                  moduleName = "CryptoCurrency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edgar/Documents/CryptoCurrency/CryptoCurrency/Domain/Use%20Cases/SearchCryptoList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "612">
+               </Location>
+               <Location
+                  uuid = "E819E10A-7BF9-4FC6-A454-E9FF211DDEDF - 6a5ed3192a4ca629"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CryptoCurrency.SearchCryptoList.execute(searchText: Swift.String) async -&gt; Swift.Result&lt;Swift.Array&lt;CryptoCurrency.CryptoCurrencyMarket&gt;, CryptoCurrency.CryptoCurrencyDomainError&gt;"
+                  moduleName = "CryptoCurrency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edgar/Documents/CryptoCurrency/CryptoCurrency/Domain/Use%20Cases/SearchCryptoList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "612">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA22306B-F954-4A69-803F-716778F79E40"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrency/Data/Repositories/CryptoCurrencyRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "search(searchText:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72DF2937-9159-4881-922D-0E96588BB2DB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrencyTests/Data/Networking/APIPriceDataSourceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "test_getPriceForCryptos_success()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "72DF2937-9159-4881-922D-0E96588BB2DB - a603350436edf36e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CryptoCurrencyTests.APIPriceDataSourceTests.test_getPriceForCryptos_success() async throws -&gt; ()"
+                  moduleName = "CryptoCurrencyTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edgar/Documents/CryptoCurrency/CryptoCurrencyTests/Data/Networking/APIPriceDataSourceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "72DF2937-9159-4881-922D-0E96588BB2DB - a603350436edf36e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CryptoCurrencyTests.APIPriceDataSourceTests.test_getPriceForCryptos_success() async throws -&gt; ()"
+                  moduleName = "CryptoCurrencyTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edgar/Documents/CryptoCurrency/CryptoCurrencyTests/Data/Networking/APIPriceDataSourceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47292311-B19A-4C4B-9EE6-E74D6CB4ECA4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrency/Data/Networking/APIPriceDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getPriceForCryptos(cryptoId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DE23A65-85A6-4F29-9FE9-E20A63BB10FD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrency/Data/Networking/APIPriceDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getPriceForCryptos(cryptoId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3599E81A-5DEB-4335-BA38-067234D79B32"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrency/Data/Networking/APIPriceDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "getPriceForCryptos(cryptoId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "015D44FE-798C-4D50-8483-04D562919920"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrencyTests/Data/Networking/APIPriceDataSourceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "test_getPriceForCryptos_success()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05109B73-7BF0-43B7-8285-C3E747ADF8C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrency/Data/Networking/APICryptoDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getCryptoList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0783C299-BEBA-4F38-BFFD-AF786159BCC1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrencyUITests/CryptoCurrencyUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "test_scroll_list_success()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
