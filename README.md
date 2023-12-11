@@ -1,6 +1,6 @@
 # CryptoCurrency
 
-App en Clean Arquitecture con Clean Code a partir del API de CoinGecko.
+App en Clean Arquitecture con Clean Code a partir del API de CoinGecko, utilizando los principios SOLID.
 
 
 ## Casos de uso
