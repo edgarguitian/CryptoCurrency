@@ -68,7 +68,6 @@
 		6DBB716C2B21F192002D0983 /* GetCryptoPriceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DBB716B2B21F192002D0983 /* GetCryptoPriceTests.swift */; };
 		6DF30D662B26FD69003D2BAF /* APICryptoDataSourceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DF30D652B26FD69003D2BAF /* APICryptoDataSourceTests.swift */; };
 		AF734FF12B237D0C007B8D0A /* CryptoCurrencyListDTO.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF734FF02B237D0C007B8D0A /* CryptoCurrencyListDTO.swift */; };
-		AF734FF32B23837A007B8D0A /* DetailViewTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF734FF22B23837A007B8D0A /* DetailViewTest.swift */; };
 		AF734FF52B23862A007B8D0A /* CryptoDetailItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF734FF42B23862A007B8D0A /* CryptoDetailItemView.swift */; };
 		AF734FF72B239D9A007B8D0A /* MockApiPriceDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF734FF62B239D9A007B8D0A /* MockApiPriceDataSource.swift */; };
 		AF734FF92B239DD3007B8D0A /* MockCryptoCurrencyDomainErrorMapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF734FF82B239DD3007B8D0A /* MockCryptoCurrencyDomainErrorMapper.swift */; };
@@ -163,7 +162,6 @@
 		6DBB716B2B21F192002D0983 /* GetCryptoPriceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetCryptoPriceTests.swift; sourceTree = "<group>"; };
 		6DF30D652B26FD69003D2BAF /* APICryptoDataSourceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICryptoDataSourceTests.swift; sourceTree = "<group>"; };
 		AF734FF02B237D0C007B8D0A /* CryptoCurrencyListDTO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoCurrencyListDTO.swift; sourceTree = "<group>"; };
-		AF734FF22B23837A007B8D0A /* DetailViewTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewTest.swift; sourceTree = "<group>"; };
 		AF734FF42B23862A007B8D0A /* CryptoDetailItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoDetailItemView.swift; sourceTree = "<group>"; };
 		AF734FF62B239D9A007B8D0A /* MockApiPriceDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockApiPriceDataSource.swift; sourceTree = "<group>"; };
 		AF734FF82B239DD3007B8D0A /* MockCryptoCurrencyDomainErrorMapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockCryptoCurrencyDomainErrorMapper.swift; sourceTree = "<group>"; };
@@ -415,7 +413,6 @@
 				6DA7D4D32B20E17900866939 /* CryptoDetailView.swift */,
 				6DA7D4DB2B20E28000866939 /* CreateCryptoDetailView.swift */,
 				6DBB71592B21EF8A002D0983 /* LoadingSpinnerView.swift */,
-				AF734FF22B23837A007B8D0A /* DetailViewTest.swift */,
 				AF734FF42B23862A007B8D0A /* CryptoDetailItemView.swift */,
 			);
 			path = UI;
@@ -662,7 +659,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				6DA7D4BA2B20DE1200866939 /* URLSessionHTTPCLient.swift in Sources */,
-				AF734FF32B23837A007B8D0A /* DetailViewTest.swift in Sources */,
 				6DBB71522B21DB3A002D0983 /* ApiPriceDataSourceType.swift in Sources */,
 				6DBB71582B21E3ED002D0983 /* CryptoCurrencyPricePresentableItem.swift in Sources */,
 				6DA7D4D02B20E06800866939 /* CryptoListItemView.swift in Sources */,
