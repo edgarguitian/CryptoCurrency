@@ -17,3 +17,9 @@ App en Clean Arquitecture con Clean Code a partir del API de CoinGecko, utilizan
 
 - Caché con SwiftData del listado de criptomonedas
 - Test Unitarios con XCTest.
+
+## Screenshots
+
+
+![cryptocurrency1](https://github.com/user-attachments/assets/6e8c6235-bfb1-4ec9-bb9b-9a85623326d9)
+![cryptocurrency2](https://github.com/user-attachments/assets/3ab83003-8904-4d1d-afd4-16b21454d788)
