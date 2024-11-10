@@ -20,6 +20,5 @@ App en Clean Arquitecture con Clean Code a partir del API de CoinGecko, utilizan
 
 ## Screenshots
 
-
-![cryptocurrency1](https://github.com/user-attachments/assets/6e8c6235-bfb1-4ec9-bb9b-9a85623326d9)
-![cryptocurrency2](https://github.com/user-attachments/assets/3ab83003-8904-4d1d-afd4-16b21454d788)
+<img src="https://github.com/user-attachments/assets/6e8c6235-bfb1-4ec9-bb9b-9a85623326d9" height="500"/>
+<img src="https://github.com/user-attachments/assets/3ab83003-8904-4d1d-afd4-16b21454d788" height="500"/>
